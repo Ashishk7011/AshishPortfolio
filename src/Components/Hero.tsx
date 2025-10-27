@@ -32,7 +32,7 @@ const Hero = () => {
             </Button>
           </a>
           <a 
-            href="Public/Ashish_Resume.pdf" 
+            href="/Ashish_Resume.pdf" 
             download 
     >
             <Button size="lg" variant="outline" className="border-primary/50 hover:bg-primary/10">
