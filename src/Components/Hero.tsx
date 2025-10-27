@@ -30,16 +30,7 @@ const Hero = () => {
               View My Work
               <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </Button>
-          </a>
-          <a 
-            href="/Ashish_Resume.pdf" 
-            download 
-    >
-            <Button size="lg" variant="outline" className="border-primary/50 hover:bg-primary/10">
-              <Download className="mr-2 h-4 w-4" />
-              Download Resume
-            </Button>
-          </a>  
+          </a> 
         </div>
 
         <div className="mt-16 grid grid-cols-2 md:grid-cols-3 gap-8">
