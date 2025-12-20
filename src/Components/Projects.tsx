@@ -23,7 +23,7 @@ const Projects = () => {
       title: "Hotel Detailed Report on Power BI",
       description: "It utilizes Power BI's advanced features to analyze sales data, trends, and advanced KPIs like RevPar, ADR, DSRN, DURN, Realisation & WoW Change % using DAX",
       tags: ["Power BI", "DAX", "Power Query"],
-      viewUrl: "Public/Power_BI_Dashboard.png",
+      viewUrl: "Public/Power_BI_Hotel_Report.pdf",
       codeUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report"
     },
     {
