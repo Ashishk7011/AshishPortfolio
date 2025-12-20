@@ -16,14 +16,14 @@ const Projects = () => {
       title: "SQL Project on Google Search",
       description: "This repository contains my SQL project focused on the top 3 queries on Google Search using window functions.",
       tags: ["My SQL", "Window Function"],
-      viewUrl: "Result_SQL.png",
+      viewUrl: "https://github.com/Ashishk7011/SQL-repository/blob/main/Result_SQL.png",
       codeUrl: "https://github.com/Ashishk7011/SQL-repository"
     },
     {
       title: "Hotel Detailed Report on Power BI",
       description: "It utilizes Power BI's advanced features to analyze sales data, trends, and advanced KPIs like RevPar, ADR, DSRN, DURN, Realisation & WoW Change % using DAX",
       tags: ["Power BI", "DAX", "Power Query"],
-      viewUrl: "Power_BI_Hotel_Report.pdf",
+      viewUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report/blob/main/Power_BI_Hotel_Report.pdf",
       codeUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report"
     },
     {
