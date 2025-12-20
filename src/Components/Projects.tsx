@@ -23,7 +23,7 @@ const Projects = () => {
       title: "Hotel Detailed Report on Power BI",
       description: "It utilizes Power BI's advanced features to analyze sales data, trends, and advanced KPIs like RevPar, ADR, DSRN, DURN, Realisation & WoW Change % using DAX",
       tags: ["Power BI", "DAX", "Power Query"],
-      viewUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report/blob/main/Power_BI_Hotel_Report.pdf",
+      viewUrl: "Public/Power_BI_Hotel_Report.pdf",
       codeUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report"
     },
     {
@@ -57,9 +57,6 @@ const Projects = () => {
               <div className="mb-4">
                 <div className="flex items-start justify-between mb-3">
                   <h3 className="text-xl font-semibold">{project.title}</h3>
-                  <span className="px-2 py-1 rounded bg-primary/20 text-primary text-xs font-medium">
-                    {project.impact}
-                  </span>
                 </div>
                 <p className="text-muted-foreground text-sm leading-relaxed">
                   {project.description}
