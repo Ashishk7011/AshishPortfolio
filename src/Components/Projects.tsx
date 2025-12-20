@@ -20,11 +20,11 @@ const Projects = () => {
       codeUrl: "https://github.com/Ashishk7011/SQL-repository"
     },
     {
-      title: "Amazon Sales Report on Ms Power BI",
-      description: "It utilizes Power BI's advanced features to analyze sales data, trends, and metrics such as revenue, units sold, top-selling products, geographical sales distribution, and more",
+      title: "Hotel Detailed Report on Power BI",
+      description: "It utilizes Power BI's advanced features to analyze sales data, trends, and advanced KPIs like RevPar, ADR, DSRN, DURN, Realisation & WoW Change % using DAX",
       tags: ["Power BI", "DAX", "Power Query"],
       viewUrl: "Public/Power_BI_Dashboard.png",
-      codeUrl: "https://github.com/Ashishk7011/PowerBI-repository"
+      codeUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report"
     },
     {
       title: "Data Analysis of Menu's items",
