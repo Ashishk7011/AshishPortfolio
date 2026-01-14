@@ -7,7 +7,7 @@ const Experience = () => {
       type: "work",
       title: "Data Analyst",
       organization: "Digital Sampark",
-      period: "June 2024 - Present",
+      period: "Mar 2025 - Oct 2025",
       description: "Leading data analytics initiatives across multiple business units & implementing advanced analytics solutions.",
       achievements: [
         "Analyzed event performance data and digital engagement metrics to extract insights and identify audience trends.",
@@ -21,7 +21,7 @@ const Experience = () => {
       type: "work",
       title: "Data Analyst Intern",
       organization: "Political Sampark",
-      period: "Mar 2024 - May 2024",
+      period: "Dec 2024 - Feb 2025",
       description: "Analyzed election campaign performance and customer behavior to optimize and drive growth strategies.",
       achievements: [
         "Analyzed large volumes of voter and campaign data to extract actionable insights and identify political trends.",
