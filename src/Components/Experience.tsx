@@ -7,7 +7,7 @@ const Experience = () => {
       type: "work",
       title: "Data Analyst",
       organization: "Digital Sampark",
-      period: "Mar 2025 - Present",
+      period: "Mar 2025 - Feb 2026",
       description: "Leading data analytics initiatives across multiple business units & implementing advanced analytics solutions.",
       achievements: [
         "Analyzed event performance data and digital engagement metrics to extract insights and identify audience trends.",
