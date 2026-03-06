@@ -15,11 +15,11 @@ const Navigation = () => {
   }, []);
 
   const navLinks = [
-    { label: "Home", href: "/AshishPortfolio/#home" },
-    { label: "Skills", href: "/AshishPortfolio/#skills" },
-    { label: "Projects", href: "/AshishPortfolio/#projects" },
-    { label: "Experience", href: "/AshishPortfolio/#experience" },
-    { label: "Contact", href: "/AshishPortfolio/#contact" },
+    { label: "Home", href: "#home" },
+    { label: "Skills", href: "#skills" },
+    { label: "Projects", href: "#projects" },
+    { label: "Experience", href: "#experience" },
+    { label: "Contact", href: "#contact" },
   ];
 
   return (
