@@ -4,20 +4,12 @@ import { ExternalLink, Github } from "lucide-react";
 
 const Projects = () => {
   const projects = [
-
     {
-      title: "Movie Recommending System",
-      description: "It involved developing and implementing machine learning algorithm to recommend movies based on user preferences and movies’ title. It also generates movie titles based on user searches for directors, cast members, and genres.",
-      tags: ["Python", "Scikit-learn", "Pandas", "Regex"],
-      viewUrl: "https://movie-recommender-search-by-genre-cast-crew.streamlit.app/",
-      codeUrl: "https://github.com/Ashishk7011/Movie-recommending-system"
-    },
-    {
-      title: "SQL Project on Google Search",
-      description: "This repository contains my SQL project focused on the top 3 queries on Google Search using window functions.",
-      tags: ["My SQL", "Window Function"],
-      viewUrl: "/AshishPortfolio/Result_SQL.png",
-      codeUrl: "https://github.com/Ashishk7011/SQL-repository"
+      title: "End-to-End Data Analysis Pipeline",
+      description: "This project is a complete end-to-end data analysis pipeline built on using Python, SQLite, and data visualization libraries on Vendor data having more than 10 Million records in Sales file. It focuses on analyzing vendor-level sales, purchases, and profitability to generate actionable business insights.",
+      tags: ["Python", "Pandas", "SQLite", "Matplotlib", "Seaborn", "Confidence Intervals", "Hypothesis Testing", "Ms Power BI", "Complex DAX Queries"],
+      viewUrl: "/AshishPortfolio/Vendor_Summary_Data.pdf",
+      codeUrl: "https://github.com/Ashishk7011/End-To-End-Data-Analysis-Project"
     },
     {
       title: "Hotel Detailed Report on Power BI",
